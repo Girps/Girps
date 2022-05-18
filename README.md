@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Girps or Jesse (my real name ) 
-- 👀 I’m interested in learning different programming languages such as C,C++, MIPS and x86 assmebly! 
+- 👀 I’m interested in learning different programming languages such as C,C++,Java,Racket, Java, MIPS and x86 assmebly! 
 - 🌱 I’m currently learning git! 
 - 📫 Reach me through my gmail jes20221168@gmail.com. 
 
